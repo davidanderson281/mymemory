@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/divan/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_refresh.xml" value="0.3675" />
         <entry key="..\:/Users/divan/AndroidStudioProjects/MyMemory/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/divan/AndroidStudioProjects/MyMemory/app/src/main/res/layout/dialog_board_size.xml" value="0.28940217391304346" />
         <entry key="..\:/Users/divan/AndroidStudioProjects/MyMemory/app/src/main/res/layout/memory_card.xml" value="0.33" />
+        <entry key="..\:/Users/divan/AndroidStudioProjects/MyMemory/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
